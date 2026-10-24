@@ -11,10 +11,10 @@ Available for B2B contracts → [morv.dev](https://morv.dev)
 
 ---
 
-### Currently building
+### Projects
 
 **[pipepulse](https://github.com/morveusz93/pipepulse)** — Pipeline health dashboard for GitLab.
-History, trends, MTTR and inline failure logs in one view.
+History, trends, MTTR and inline failure logs in one view. → **[pipepulse.morv.dev](https://pipepulse.morv.dev)**
 
 ---
 
